@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Main Website Root -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://dr-hegazy-mogahed.com/images/dr_hegazy.png</image:loc>
+      <image:title>أ.د. حجازي مجاهد التميمي - أفضل أستاذ روماتيزم ومفاصل ومناعة</image:title>
+      <image:caption>رئيس وحدة الروماتيزم بمستشفي سيد جلال الجامعي وأستاذ بطب الأزهر</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Clinics & Branches (Local GEO) -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#branches</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#branch-port-said</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#branch-cairo-nasr</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#branch-manzala</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Medical Services -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#services</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Doctor Bio & Credentials -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#bio</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- AI Answer Engine Overview (AEO) -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#ai-summary</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Video Gallery & Media with Video Sitemap Metadata -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#videos</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    
+    <!-- Video: Intro -->
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xqKf2EyjSLo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>الأستاذ الدكتور حجازي مجاهد التميمي - أستاذ الروماتيزم والمناعة</video:title>
+      <video:description>فيديو تعريفي بخبرات وعيادات الأستاذ الدكتور حجازي مجاهد التميمي، رئيس وحدة الروماتيزم بمستشفي سيد جلال الجامعي وأستاذ بطب الأزهر.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/xqKf2EyjSLo</video:player_loc>
+      <video:duration>195</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+    <!-- Video: Gout -->
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/X6nyRJsmakg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>تشخيص وعلاج النقرس الحاد والمزمن - أ.د. حجازي مجاهد</video:title>
+      <video:description>شرح طبي مفصل حول أسباب ارتفاع حمض اليوريك، نوبات النقرس المفاجئة في القدم والمفاصل، وأحدث البروتوكولات العلاجية.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/X6nyRJsmakg</video:player_loc>
+      <video:duration>860</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+
+
+    <!-- Video: Short 1 -->
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/qQfy9pAOyKQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>شورتس: نصيحة أ.د. حجازي مجاهد لمرضى الروماتيزم والمفاصل</video:title>
+      <video:description>مقطع شورتس توعوي سريع من أ.د. حجازي مجاهد حول تشخيص آلام المفاصل وتجنب تيبس الفقرات.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/qQfy9pAOyKQ</video:player_loc>
+      <video:duration>45</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+
+  <!-- Symptoms Guide -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#symptoms</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- SEO Keyword Cloud & GEO Terms -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#hashtags-cloud</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- FAQs Section (AEO Target) -->
+  <url>
+    <loc>https://dr-hegazy-mogahed.com/#faqs</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+</urlset>

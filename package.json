@@ -1,0 +1,20 @@
+{
+  "name": "dr-hegazy-mogahed-website",
+  "version": "1.0.0",
+  "description": "Official Website for Prof. Dr. Hegazy Mogahed El-Tamimy - Rheumatology & Clinical Immunology",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve -p 5173 ."
+  },
+  "keywords": [
+    "rheumatology",
+    "rheumatoid",
+    "lupus",
+    "port-said",
+    "cairo",
+    "manzala",
+    "dr-hegazy-mogahed"
+  ],
+  "author": "Prof. Dr. Hegazy Mogahed El-Tamimy",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+# Ignore heavy video files to keep deployment package < 5MB (Vercel max drag-and-drop limit is 100MB)
+videos/rheumatoid_1.mp4
+videos/rheumatoid_2.mp4
+videos/lymphadenopathy.mp4
+scratch
+scratch/
+

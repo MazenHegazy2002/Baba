@@ -1,0 +1,6 @@
+# Vercel & Node build artifacts
+.vercel
+node_modules
+*.log
+.DS_Store
+Thumbs.db
